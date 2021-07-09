@@ -2,4 +2,10 @@
 
 Hello there!
 
-This is my data visualization portofolio where I post my projects.
+This is my data visualization repository. More to come, i hope!
+
+## Projects
+
+| Name                              |  Dataset                                                                              |
+| --------------------------------- | ------------------------------------------------------------------------------------- |
+| Football transfer market analysis | https://www.kaggle.com/vardan95ghazaryan/top-250-football-transfers-from-2000-to-2018 |
