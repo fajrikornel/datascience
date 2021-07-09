@@ -2,7 +2,7 @@
 
 Hello there!
 
-This is my data visualization repository. More to come, i hope!
+This is my data visualization repository. More to come, I hope!
 
 ## Projects
 
