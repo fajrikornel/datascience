@@ -1,8 +1,8 @@
-# Data Visualization
+# Data Science
 
 Hello there!
 
-This is my data visualization repository. More to come, I hope!
+This is my data science repository. More to come, I hope!
 
 ## Projects
 
