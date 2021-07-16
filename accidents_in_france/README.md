@@ -11,3 +11,5 @@ Source: France Government via Kaggle www.kaggle.com/ahmedlahlou/accidents-in-fra
 | Hypothesis | ... |
 
 Project is still ongoing!!
+
+Open it using Jupyter Lab or Notebook. GitHub does not support pretty markdowns on .ipynb files.
